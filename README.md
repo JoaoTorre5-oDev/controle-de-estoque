@@ -6,6 +6,6 @@ O sistema deve:
 • Somar as entradas no estoque;
 • Subtrair as saídas no estoque;
 • Mostrar o estoque final.
-Confira o fluxograma dessa atividade na página seguinte e acompanhe
+acompanhe
 o passo a passo.
 
