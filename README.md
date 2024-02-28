@@ -1,7 +1,7 @@
 # controle-de-estoque
 
 Neste repositorio, você vai acompanhar como realizarei a seguinte atividade:
-Implementação de um sistema de cadastro de peças.
+Implementação de um sistema de cadastro de peças.<br>
 O sistema deve:<br>
 • Somar as entradas no estoque;<br>
 • Subtrair as saídas no estoque;<br>
